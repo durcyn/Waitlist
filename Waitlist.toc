@@ -1,0 +1,7 @@
+## Interface: 30100
+## Title: Waitlist
+## Notes: Simple raid waiting list 
+## X-Category: Raid
+## SavedVariables: WaitlistDB
+Waitlist.lua
+
